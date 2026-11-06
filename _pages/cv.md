@@ -11,35 +11,26 @@ redirect_from:
 
 Education
 ======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
+* Ph.D in Medicinal Chemistry, Cancer Sciences, Cancer Research UK Manchester Institute,University of Manchester, UK, 2023
+* M.Chem. in Chemistry and Drug Design, University of Sussex, 2018
 
 Work experience
 ======
-* Spring 2024: Academic Pages Collaborator
-  * GitHub University
-  * Duties includes: Updates and improvements to template
-  * Supervisor: The Users
+* 2025: Senior Scientist
+  * Iksuda Therapeutics
+  * Area of expertise: Antibody-Drug Conjugates (ADCs)
 
-* Fall 2015: Research Assistant
-  * GitHub University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
 
-* Summer 2015: Research Assistant
-  * GitHub University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* 2018: Associate Scientist
+  * Charles River Laboratories
+  * Area of expertise: Small Molecules
   
 Skills
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* Structure-based drug discovery
+* Computational chemistry
+  * Molecular docking
+  * Virtual screening
 
 Publications
 ======
