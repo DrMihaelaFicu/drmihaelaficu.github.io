@@ -23,9 +23,9 @@ repository               : "drmihaelaficu/drmihaelaficu.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "Mihaela-Ficu-079-Edit-Edit-4lowres.jpg"
+  avatar           : "image.png"
   name             : "Dr Mihaela Ficu"
-  pronouns         : # example: "she/her"  
+  pronouns         : "she/her"  
   bio              : "Computational and medicinal chemist with a PhD in oncology drug discovery and extensive expertise in small-molecule therapeutics, induced proximity modalities such as Proteolysis-Targeting Chimeras (PROTACs) and molecular glues, as well as Antibody-Drug Conjugates (ADCs)"
   location         : "Adelaide, Australia"
   employer         : "Adelaide University"
@@ -66,7 +66,7 @@ author:
   keybase          : # Username
   instagram        : # Username
   lastfm           : # Username
-  linkedin         : # https://au.linkedin.com/in/mihaelaficu
+  linkedin         : "https://au.linkedin.com/in/mihaelaficu"
   mastodon         : # URL
   medium           : # URL
   pinterest        : # Username
