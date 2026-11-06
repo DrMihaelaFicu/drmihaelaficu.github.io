@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Academic Pages is a ready-to-fork GitHub Pages template for academic personal websites"
+title: "AI-enabled Drug Discovery Approaches in Targeted Protein Degradation"
 author_profile: true
 redirect_from: 
   - /about/
