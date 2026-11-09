@@ -2,7 +2,7 @@
 title: "Development of dihydropyrrolopyridinone-based PKN2/PRK2 chemical tools to enable drug discovery"
 collection: publications
 category: manuscripts
-#permalink: https://doi.org/10.1016/j.bmcl.2022.128588
+permalink: 'https://doi.org/10.1016/j.bmcl.2022.128588'
 excerpt: 'Synthesis and evaluation of PKN2/PRK2 chemical tools.'
 date: 2022-1-22
 venue: 'Bioorganic & Medicinal Chemistry Letters'
