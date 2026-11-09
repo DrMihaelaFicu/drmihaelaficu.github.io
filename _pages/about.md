@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "AI-enabled Drug Discovery Approaches in Targeted Protein Degradation"
+title: "AI-enabled Drug Discovery"
 author_profile: true
 redirect_from: 
   - /about/
