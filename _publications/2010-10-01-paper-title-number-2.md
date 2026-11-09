@@ -2,7 +2,7 @@
 title: "Hijacking the MDM2 E3 Ligase with Novel BRD4-Targeting Proteolysis-Targeting Chimeras in Pancreatic Cancer Cells"
 collection: publications
 category: manuscripts
-permalink: permalink: /publication/structural-basis-protac-cooperative-recognition
+permalink: /publication/structural-basis-protac-cooperative-recognition
 excerpt: 'This paper is about the discovery of novel MDM2-based PROTACs degrading BRD4.'
 date: 2025-05-02
 venue: 'ChemBioChem'
