@@ -11,12 +11,10 @@ Designing molecules. Exploring new therapeutic possibilities. Integrating chemis
 
 ## About me
 
-My research career as a medicinal chemist specialising in oncology drug discovery allowed me to work for over a decade in experimental chemistry across academic research, a contract research organisation (CRO) and a clinical-stage biotech company in global environments. 
+For over a decade I have built a strong background in oncology drug discovery as a medicinal chemist working in experimental chemistry across leading cancer research institutes, a contract research organisation (CRO) and a clinical-stage biotech company. 
 
-I have worked across diverse therapeutic discovery programmes, developing expertise in small molecules, induced proximity therapeutics (PROTACs and molecular glues), and antibody–drug conjugates (ADCs).
+I have worked across diverse therapeutic discovery programmes, developing expertise in small molecules (kinase inhibitors), induced proximity therapeutics (PROTACs and molecular glues), and antibody–drug conjugates (ADCs).
 
-During my PhD in Medicinal Chemistry at the University of Manchester, I discovered the power of computational chemistry and its potential to complement experimental approaches to drug discovery. That experience sparked a growing interest in integrating molecular modelling, structure-based drug design and computational tools into medicinal chemistry.
+During my PhD in Medicinal Chemistry at the University of Manchester, UK, I discovered the power of computational chemistry and its potential to complement experimental approaches to drug discovery. That experience sparked a growing interest in integrating molecular modelling, structure-based drug design and computational tools into medicinal chemistry to facilitate the rational drug discovery of novel chemical tools and potential drug candidates.
 
-As a Postdoctoral Research Fellow in the Molecular & Proximity Discovery Laboratory at SAiGENCI, I am exploring the rapidly evolving landscape of AI-enabled drug discovery. I believe that artificial intelligence has the potential to reshape the way we design innovative drug candidates, especially for the undraggable proteome.
-
-My research interests lie at the intersection of computational drug discovery, medicinal chemistry and emerging therapeutic technologies, with the ultimate goal of accelerating the discovery of innovative cancer treatments.
+My research interests lie at the intersection of computational drug discovery, medicinal chemistry and emerging therapeutic technologies, with the ultimate goal of accelerating the discovery of innovative cancer treatments. I believe that artificial intelligence has the potential to reshape the way we design innovative drug candidates, and I am very keen to continue exploring the rapidly evolving landscape of AI-enabled drug discovery. 
