@@ -2,11 +2,10 @@
 title: "Development of dihydropyrrolopyridinone-based PKN2/PRK2 chemical tools to enable drug discovery"
 collection: publications
 category: manuscripts
-permalink: https://doi.org/10.1016/j.bmcl.2022.128588
+#permalink: https://doi.org/10.1016/j.bmcl.2022.128588
 excerpt: 'Synthesis and evaluation of PKN2/PRK2 chemical tools.'
 date: 2022-1-22
 venue: 'Bioorganic & Medicinal Chemistry Letters'
-slidesurl: 'https://doi.org/10.1016/j.bmcl.2022.128588'
 paperurl: 'https://doi.org/10.1016/j.bmcl.2022.128588'
 citation: 'Scott,F., Fala, A. M., Takarada J. E., Ficu, M. P., Pennicott, L. E., Reuillon T. D., Couñago, R. M., Massirer K. B., Elkins, J. M., Ward, S. E.,
 Development of dihydropyrrolopyridinone-based PKN2/PRK2 chemical tools to enable drug discovery, Bioorg. Med. Chem. Lett., 60, 2022, 128588.'
