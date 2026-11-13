@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "AI-enabled Drug Discovery"
+title: "Dr Mihaela Ficu"
 author_profile: true
 redirect_from: 
   - /about/
