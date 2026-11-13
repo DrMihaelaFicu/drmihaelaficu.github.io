@@ -9,7 +9,7 @@
 # Basic Site Settings
 locale                   : "en-US"
 site_theme               : "default" # The available themes options are "default", "air", "sunrise", "mint", "dirt" and "contrast"
-title                    : "Computational Strategies in Targeted Protein Degradation"
+title                    : "AI-enabled Drug Discovery"
 title_separator          : "-"
 name                     : &name "Dr Mihaela Ficu"
 description              : &description "In silico Drug Discovery"   # Update this with a general description of your site, this is the default if not overridden by a page
