@@ -10,8 +10,8 @@ var addressPoints = [
     -0.1277653
   ],
   [
-    "Conference Proceeding talk 3 on Relevant Topic in Your Field<br />Testing Institute of America 2014 Annual Conference; Los Angeles, CA, USA",
-    34.0536923,
-    -118.2427676
+    "Hijacking the MDM2 E3 Ligase with Novel BRD4-Targeting PROTACs in Pancreatic Cancer Cells<br />RICT 57th International Conference on Medicinal Chemistry; Lille, France",
+    50.6365654,
+    3.0635282
   ]
 ];
