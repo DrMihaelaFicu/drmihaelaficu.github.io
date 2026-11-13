@@ -9,7 +9,7 @@ redirect_from:
 
 Designing molecules. Exploring new therapeutic possibilities. Integrating chemistry, biology and computational science.
 
-## Scientific Expertise
+## Scientific Background
 
 For over a decade I have built a strong background in oncology drug discovery as a medicinal chemist working in experimental chemistry across leading cancer research institutes, a contract research organisation (CRO) and a clinical-stage biotech company. 
 
