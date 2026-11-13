@@ -48,3 +48,73 @@ My research interests lie at the intersection of computational drug discovery, m
 * Chemical biology
 * Biochemistry
 * Molecular biology
+
+
+
+
+
+*Bridging medicinal chemistry, computational science and artificial intelligence to advance drug discovery.*
+
+I am a medicinal and computational chemist with a PhD in Medicinal Chemistry and over a decade of experience in oncology drug discovery. My background spans academic research, pharmaceutical industry and biotechnology, with expertise in small-molecule therapeutics, targeted protein degradation and antibody–drug conjugates (ADCs).
+
+My research interests lie at the intersection of **medicinal chemistry, computational drug discovery and emerging therapeutic technologies**. I am particularly interested in how molecular modelling, structure-based drug design and artificial intelligence can complement experimental approaches to accelerate the discovery of innovative medicines.
+
+## Research interests
+
+My scientific interests encompass several interconnected areas of drug discovery:
+
+**Computational and structure-based drug design**
+
+Molecular docking, protein–ligand interactions, virtual screening and molecular modelling to understand molecular recognition and guide compound design.
+
+**Targeted protein degradation**
+
+PROTACs, molecular glues and induced proximity therapeutics, including strategies to exploit alternative E3 ubiquitin ligases for targeted protein degradation.
+
+**AI-enabled drug discovery**
+
+Exploring machine learning, large language models and AI agents to support molecular design, chemical reasoning and computational drug discovery workflows.
+
+**Medicinal chemistry and chemical biology**
+
+Small-molecule drug discovery, kinase inhibitors, chemical biology and the development of novel therapeutic approaches for cancer.
+
+## Research experience
+
+Over the course of my career, I have contributed to drug discovery programmes across academic research institutes, a contract research organisation and a clinical-stage biotechnology company.
+
+My experience includes:
+
+- Small-molecule drug discovery, including kinase inhibitors.
+- Targeted protein degradation and PROTAC development.
+- Antibody–drug conjugates and targeted therapeutics.
+- Medicinal chemistry, chemical synthesis and biological evaluation.
+
+During my PhD at the University of Manchester, I investigated BRD4-targeting PROTACs recruiting the MDM2 E3 ubiquitin ligase. This research strengthened my interest in understanding the molecular mechanisms underlying targeted protein degradation and the potential of computational approaches to complement experimental drug discovery.
+
+## Computational drug discovery
+
+I am particularly interested in developing computational approaches that bridge molecular chemistry, structural biology and artificial intelligence.
+
+My interests include:
+
+- Protein structure preparation and molecular docking.
+- Protein–ligand interaction analysis.
+- Structure-based molecular design.
+- Molecular informatics and cheminformatics.
+- Machine learning and AI-driven drug discovery agents.
+
+I enjoy exploring new computational tools and developing reproducible workflows that connect chemical knowledge with emerging AI technologies.
+
+## Education
+
+- **PhD in Medicinal Chemistry**, Cancer Sciences, University of Manchester, UK (2023).
+- **MChem in Chemistry and Drug Design**, University of Sussex, UK (2018).
+
+## Explore my work
+
+- [Publications](/publications/) – Peer-reviewed research and scientific contributions.
+- [Presentations](/talks/) – Conference talks, posters and presentations.
+- [Research projects](/portfolio/) – Selected research and scientific projects.
+- [Curriculum vitae](/files/) – Professional background and experience.
+
