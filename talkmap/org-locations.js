@@ -13,5 +13,10 @@ var addressPoints = [
     "Discovery of BRD4-Targeting PROTACs by recruiting the MDM2 E3 Ligase<br />ACSMEDI-EFMC Medicinal Chemistry Frontiers 2023 Symposium, Boston, USA; Boston, USA",
     42.3588336,
     -71.0578303
+  ],
+  [
+    "Hijacking the MDM2 E3 Ligase with Novel BRD4-Targeting Proteolysis-Targeting Chimeras in Pancreatic Cancer Cells<br />Inaugural Lorne Australian Ubiquitin Summit 2025; Lorne, Victoria, Australia",
+    -38.5411691,
+    143.9748166
   ]
 ];
