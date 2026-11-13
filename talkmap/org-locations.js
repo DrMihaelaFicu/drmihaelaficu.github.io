@@ -1,6 +1,6 @@
 var addressPoints = [
   [
-    "Discovery of BRD4-Targeting PROTACs by recruiting the MDM2 E3 Ligase<br />ACSMEDI-EFMC Medicinal Chemistry Frontiers 2023 Symposium, Boston, USA; Boston, USA",
+    "Discovery of BRD4-Targeting PROTACs by recruiting the MDM2 E3 Ligase<br />ACSMEDI-EFMC Medicinal Chemistry Frontiers 2023 Symposium; Boston, USA",
     42.3588336,
     -71.0578303
   ],
