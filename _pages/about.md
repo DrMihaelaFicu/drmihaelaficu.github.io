@@ -9,7 +9,7 @@ redirect_from:
 
 *Bridging medicinal chemistry, computational science and artificial intelligence to advance drug discovery.*
 
-I am a medicinal and computational chemist with a PhD in Medicinal Chemistry and over a decade of experience in oncology drug discovery. My experience spans internationally recognised cancer research institutes, a global clinical-stage biotechnology company and a leading global contract research organisation (CRO), where I gained expertise in small-molecule therapeutics, targeted protein degradation (PROTACs) and antibody–drug conjugates (ADCs).
+I am a medicinal and computational chemist with a PhD in Cancer Sciences and over a decade of experience in oncology drug discovery. My experience spans internationally recognised cancer research institutes, a global clinical-stage biotechnology company and a leading global contract research organisation (CRO), where I gained expertise in small-molecule therapeutics, targeted protein degradation (PROTACs) and antibody–drug conjugates (ADCs).
 
 My research interests lie at the intersection of **medicinal chemistry, computational drug discovery and emerging therapeutic technologies**. I am particularly interested in how molecular modelling, structure-based drug design and artificial intelligence can complement experimental approaches to accelerate the discovery of innovative medicines.
 
