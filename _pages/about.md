@@ -36,6 +36,4 @@ Computational workflows including machine learning, large language models and AI
 
 - [Publications](/publications/) – Peer-reviewed research and scientific contributions.
 - [Presentations](/talks/) – Conference talks, posters and presentations.
-- [Research projects](/portfolio/) – Selected research and scientific projects.
-- [Curriculum vitae](/files/) – Professional background and experience.
-
+- [Research projects](/portfolio/) – Ongoing scientific projects.
