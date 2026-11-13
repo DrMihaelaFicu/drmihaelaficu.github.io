@@ -17,15 +17,15 @@ My research interests lie at the intersection of **medicinal chemistry, computat
 
 **Computational and structure-based drug design**
 
-Molecular docking, protein–ligand interactions, virtual screening and molecular modelling to understand molecular recognition and guide compound design.
+Molecular docking, protein–ligand interactions and virtual screening to guide compound design and lead optimisation.
 
 **Targeted Protein Degradation (TPD)**
 
-PROTACs, molecular glues and induced proximity therapeutics, including strategies to exploit alternative E3 ubiquitin ligases for targeted protein degradation.
+PROTACs, molecular glues and induced proximity therapeutics, including strategies to exploit alternative E3 ubiquitin ligases.
 
 **AI-enabled drug discovery**
 
-Exploring machine learning, large language models and AI agents to support molecular design, chemical reasoning and computational drug discovery workflows.
+Computational workflows including machine learning, large language models and AI agents to support molecular design, property prediction and optimisation. 
 
 ## Education
 
