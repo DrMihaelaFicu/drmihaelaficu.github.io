@@ -15,8 +15,6 @@ My research interests lie at the intersection of **medicinal chemistry, computat
 
 ## Research interests
 
-My scientific interests encompass several interconnected areas of drug discovery:
-
 **Computational and structure-based drug design**
 
 Molecular docking, protein–ligand interactions, virtual screening and molecular modelling to understand molecular recognition and guide compound design.
