@@ -20,24 +20,31 @@ During my PhD in Medicinal Chemistry at the University of Manchester, UK, I disc
 My research interests lie at the intersection of computational drug discovery, medicinal chemistry and emerging therapeutic technologies, with the ultimate goal of accelerating the discovery of innovative cancer treatments. I believe that artificial intelligence has the potential to reshape the way we design innovative drug candidates, and I am very keen to continue exploring the rapidly evolving landscape of AI-enabled drug discovery. 
 
 ## Education
-======
-* Ph.D in Medicinal Chemistry, Cancer Sciences, Cancer Research UK Manchester Institute,University of Manchester, UK, 2023
+* Postdoctoral Research Fellow (B), South Australian immunoGENomics Cancer Institute (SAiGENCI), Adelaide University, Adelaide, Australia, 2025
+* Ph.D in Medicinal Chemistry, Cancer Sciences, Cancer Research UK Manchester Institute, University of Manchester, UK, 2023
 * M.Chem. in Chemistry and Drug Design, University of Sussex, 2018
 
 ## Pharmaceutical Industry Experience
-======
-* 2025: Senior Scientist
+* 2024 - 2025: Senior Scientist
   * Iksuda Therapeutics
   * Area of expertise: Antibody-Drug Conjugates (ADCs)
 
-
-* 2018: Associate Scientist
+* 2018 - 2019: Associate Scientist
   * Charles River Laboratories
   * Area of expertise: Small Molecules
+ 
+## Awards
+* The British Association for Cancer Research/AstraZeneca Student Travel Award, 2023
+* The Royal Society of Chemistry- Biological and Medicinal Chemistry Sector International Travel Award, 2023
+* The Royal Society of Chemistry Downland Prize for the best MChem presentation in Organic or Inorganic Chemistry, 2018
   
 ## Key Skills
-======
 * Structure-based drug discovery
 * Computational chemistry
   * Molecular docking
   * Virtual screening
+  * AI-enabled drug discovery
+* Medicinal chemistry
+* Chemical biology
+* Biochemistry
+* Molecular biology
