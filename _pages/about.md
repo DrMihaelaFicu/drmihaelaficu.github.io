@@ -29,11 +29,11 @@ Computational workflows including machine learning, large language models and AI
 
 ## Education
 
-- **PhD in Medicinal Chemistry**, Cancer Sciences, University of Manchester, UK (2023).
+- **PhD in Medicinal Chemistry**, Cancer Sciences, Cancer Research UK Manchester Institute, University of Manchester, UK (2023).
 - **MChem in Chemistry and Drug Design**, University of Sussex, UK (2018).
 
 ## Explore my work
 
 - [Publications](/publications/) – Peer-reviewed research and scientific contributions.
 - [Presentations](/talks/) – Conference talks, posters and presentations.
-- [Research projects](/portfolio/) – Ongoing scientific projects.
+<!-- - [Research projects](/portfolio/) – Ongoing scientific projects. -->
